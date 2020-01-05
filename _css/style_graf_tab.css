@@ -1,0 +1,101 @@
+* {
+   margin: 0;
+   padding: 0; 
+}
+#sair {
+    position: relative;
+    left: 1%;
+    margin-bottom: 5px;
+}
+
+a {
+    color:inherit;
+}
+
+a:hover {
+    color:inherit;
+}
+
+.form {
+    border: 1px solid black;
+    width: 25%;
+    padding-left: 5px;
+    margin-bottom: 5px;
+}
+
+.entrada-linha {
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.success {
+    position: relative;
+    background: #c7efd9;
+    border: #bbe2cd 1px solid;
+    left: 27%;
+}
+
+.error {
+    position: relative;
+    background: #fbcfcf;
+    border: #f3c6c7 1px solid;
+    left: 27%;
+}
+
+.tabela {
+    position: relative;
+    background: #F0F0F0;
+    border: #e0dfdf 1px solid;
+    padding: 5px;
+    border-radius: 2px;
+    width: 1100px;
+}
+
+.tabela table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+.tabela th {
+    border: 1px solid #dddddd;
+    padding: 2px;
+    text-align: center;
+}
+
+.tabela td {
+    border: 1px solid #dddddd;
+    padding: 2px;
+    text-align: center;
+    font-size: 11px;
+}
+
+#response {
+    padding: 5px;
+    margin-bottom: 5px;
+    border-radius: 2px;
+    display: none;
+}
+
+#response.display-block {
+    display: block;
+}
+
+td {
+    border: 1px solid #ccc;
+    padding: 1px;
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+}
+
+table {
+    border-collapse: collapse;
+    margin: auto;
+    text-align: center;
+}
+
+#mycanvas {
+    position: absolute;
+    top: 67.3%;
+    left: 1150px;
+    height: auto;
+}

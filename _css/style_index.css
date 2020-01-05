@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    margin-top: 5%;
+}
+
+.box img {
+    position:relative;
+    left: 31%;
+}
+
+img {
+    width: 40%;
+    height: 70%;
+    position:center;
+}
+
+.title {
+    color: black;
+    font-size: 80px;
+    text-align:center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    text-shadow: 5px 3px 3px #c15000;
+    text-decoration: underline;
+}
+
+button {
+    position: relative;
+    margin-top: 10px;
+    width: 25%;
+    left: 38%;
+}
+
+.form-row {
+    position: relative;
+    left: 34%;
+    width: 50%;
+}
+
+input {
+    margin-bottom: 5px;
+}

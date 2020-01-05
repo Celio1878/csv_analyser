@@ -1,0 +1,37 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.back img {
+    position: absolute;
+    top: 2%;
+    left: 1%;
+    width: 50px;
+    height: 50px;
+}
+
+main {
+    margin-top: 5%;
+}
+
+.title {
+    color: black;
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    letter-spacing: 2px;
+    text-shadow: 5px 3px 3px #c15000;
+    text-decoration: underline;
+}
+
+#cadastro {
+    position: relative;
+    margin-top: 15px;
+    width: 50%;
+    left: 28%;
+}
+
+input {
+    margin-bottom: 10px;
+}
